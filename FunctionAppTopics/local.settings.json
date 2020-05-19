@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "AzureServiceBusConnection": "CONEXÃO AZURE SERVICE BUS",
+    "BrokerKafka": "CONEXÃO APACHE KAFKA",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+  }
+}
